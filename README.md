@@ -1,8 +1,10 @@
+<img align="center" src="public/assets/images/MgMeta.png" />
+
 # Money Guardian
 
 ## Personal Finance App
 
-Green Guardian is an all-in-one personal finance app designed to promote good financial decisions. It's an excellent resource for young adults learning to take control of their finances, as well as for adults who want to keep track of their income, expenses, and budgets.
+Money Guardian is an all-in-one personal finance app designed to promote good financial decisions. It's an excellent resource for young adults learning to take control of their finances, as well as for adults who want to keep track of their income, expenses, and budgets.
 
 ### Features
 
@@ -22,8 +24,7 @@ Money Guardian is currently being developed as a Web App using:
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Clerk.dev](https://clerk.dev/)
-- [SQLite](https://www.sqlite.org/)
+- [Appwrite.io](https://appwrite.io/)
 
 ### Future Plans
 
